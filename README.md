@@ -35,7 +35,7 @@ The SGET code has been implemented and tested in the following development envir
 - **microbe_microbe_similarity.txt**: Contains the cosine similarity of microbes.
 - **newmicrobesimilarity.txt**: Contains the Gaussian kernel similarity of microbes.
 - **net1.mat**: Represents the adjacency matrix of the drug-microbe heterogeneous graph.
-- **Supplementary_file_SF1.xlsx**: Lists the top 20 candidate microbes for each drug.
+- **Supplementary_file_SF2.xlsx**: Lists the top 20 candidate microbes for each drug.
 
 ---
 
