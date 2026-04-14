@@ -7,7 +7,7 @@ The project  is an implementation of a Learning shared topology and edge-aware r
 ---
 
 ## Catalogs  
-- **/data_DM/data**: Contains the dataset used in our method.
+- **/data_DM**: Contains the dataset used in our method.
 - **/code**: Contains the code implementation of  SGET algorithm.
 - **dataloader.py**: Processes the drug and microbial similarities, associations, embeddings, and adjacency matrices.
 - **sim.py**: Calculates the drug attribute similarity based on the heat kernel and the microbe similarity based on the Gaussian kernel.
