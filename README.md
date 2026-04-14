@@ -2,7 +2,7 @@
 # SGET
 
 ## Introduction  
-The project  is an implementation of a SGET: Shared-component enhanced Graph convolutional network and Edge-gated Transformer for predicting drug-related microbes.
+The project  is an implementation of a Learning shared topology and edge-aware representations across multiple graphs for drug–microbe association prediction.
 
 ---
 
@@ -12,7 +12,6 @@ The project  is an implementation of a SGET: Shared-component enhanced Graph con
 - **dataloader.py**: Processes the drug and microbial similarities, associations, embeddings, and adjacency matrices.
 - **sim.py**: Calculates the drug attribute similarity based on the heat kernel and the microbe similarity based on the Gaussian kernel.
 - **model.py**: Train and test the model.
-- **tools4roc_pr.py**: Contains the early stopping function.
 
 ---
 
