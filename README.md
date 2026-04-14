@@ -12,7 +12,7 @@ The project  is an implementation of a Learning shared topology and edge-aware r
 - **dataloader.py**: Processes the drug and microbial similarities, associations, embeddings, and adjacency matrices.
 - **sim.py**: Calculates the drug attribute similarity based on the heat kernel and the microbe similarity based on the Gaussian kernel.
 - **model.py**: Train and test the model.
-
+- **early_stopping.py**: Contains the early stopping function.
 ---
 
 ## Environment  
